@@ -1,0 +1,588 @@
+title,debut_year,generation,gender,debut_label,big4,n_members,duration,event,reunited,first_end_year
+Seo Taiji and Boys,1992,1st,unknown,Bando Eumban,False,3.0,4.0,1,False,1996.0
+Deux (band),1993,1st,boy,Jigu,False,2.0,2.0,1,True,1995.0
+Cool (band),1994,1st,mixed,,False,5.0,11.0,1,False,2005.0
+DJ DOC,1994,1st,boy,,False,5.0,24.0,1,False,2018.0
+Roo'ra,1994,1st,mixed,,False,6.0,7.0,1,False,2001.0
+Two Two,1994,1st,unknown,"Oasis , BMG Korea",False,5.0,2.0,1,False,1996.0
+R.ef,1995,1st,unknown,,False,3.0,4.0,1,False,1999.0
+Turbo (South Korean band),1995,1st,unknown,GM,False,3.0,6.0,1,True,2001.0
+Goofy (band),1996,1st,unknown,,False,5.0,30.0,0,False,
+H.O.T.,1996,1st,boy,SM,True,5.0,5.0,1,True,2001.0
+Uptown (band),1996,1st,unknown,,False,8.0,4.0,1,True,2000.0
+U-BeS,1997,1st,boy,,False,4.0,1.0,1,False,1998.0
+S.E.S. (group),1997,1st,girl,SM,True,3.0,5.0,1,True,2002.0
+NRG (South Korean band),1997,1st,boy,Music Factory,False,10.0,9.0,1,True,2006.0
+Sechs Kies,1997,1st,boy,DSP,False,6.0,3.0,1,True,2000.0
+Diva (South Korean group),1997,1st,girl,Cream,False,4.0,8.0,1,False,2005.0
+Baby Vox,1997,1st,girl,DR,False,9.0,9.0,1,True,2006.0
+Jinusean,1997,1st,unknown,YG,True,2.0,7.0,1,True,2004.0
+1TYM,1998,1st,boy,YG,True,4.0,8.0,1,False,2006.0
+4Men,1998,1st,boy,Major9,False,11.0,21.0,1,True,2019.0
+Fin.K.L,1998,1st,girl,DSP,False,4.0,4.0,1,True,2002.0
+Koyote,1998,1st,mixed,Trifecta,False,6.0,28.0,0,False,
+Sharp (South Korean band),1998,1st,mixed,World,False,7.0,4.0,1,False,2002.0
+Shinhwa,1998,1st,boy,SM,True,6.0,28.0,0,False,
+T.T.MA,1999,1st,girl,Music Factory,False,7.0,3.0,1,False,2002.0
+As One (musical duo),1999,1st,unknown,Rock,False,2.0,18.0,1,True,2017.0
+Cleo (group),1999,1st,girl,Doremi Media StarMade,False,8.0,6.0,1,True,2005.0
+Click-B,1999,1st,boy,DSP,False,7.0,7.0,1,False,2006.0
+Fly to the Sky,1999,1st,boy,SM,True,2.0,10.0,1,True,2009.0
+g.o.d,1999,1st,boy,SidusHQ,False,5.0,6.0,1,True,2005.0
+UN (band),2000,1st,boy,NH Planning,False,2.0,5.0,1,False,2005.0
+Chakra (group),2000,1st,girl,Cream,False,5.0,6.0,1,False,2006.0
+Papaya (group),2000,1st,girl,Winsome,False,5.0,1.0,1,False,2001.0
+5tion,2001,1st,boy,JT Corea,False,17.0,25.0,0,False,
+Epik High,2001,1st,unknown,Ours,False,3.0,25.0,0,False,
+Jewelry (group),2001,1st,girl,Star Empire,False,10.0,14.0,1,False,2015.0
+jtL,2001,1st,boy,Yejeon,False,3.0,3.0,1,False,2004.0
+K'Pop (band),2001,1st,boy,,False,5.0,3.0,1,False,2004.0
+Kiss (South Korean group),2001,1st,girl,J-Entercom,False,3.0,1.0,1,False,2002.0
+Milk (South Korean group),2001,1st,girl,BM,False,4.0,2.0,1,False,2003.0
+Sugar (South Korean group),2001,1st,girl,Starworld,False,5.0,5.0,1,False,2006.0
+Shinvi,2001,1st,girl,SM,True,3.0,3.0,1,False,2004.0
+MC the Max,2002,1st,boy,Music&NEW,False,4.0,24.0,0,False,
+Noel (band),2002,1st,boy,JYP,True,4.0,4.0,1,True,2006.0
+Luv (group),2002,1st,girl,SidusHQ,False,3.0,1.0,1,False,2003.0
+F-iV,2002,1st,boy,"EnterOne, CS Entertainment, , H&J",False,4.0,2.0,1,False,2004.0
+Black Beat,2002,1st,boy,SM,True,5.0,5.0,1,False,2007.0
+Isak N Jiyeon,2002,1st,girl,SM,True,2.0,2.0,1,False,2004.0
+Brown Eyed Soul (band),2003,2nd,boy,,False,4.0,23.0,0,False,
+Take (band),2003,2nd,unknown,CI,False,5.0,23.0,0,False,
+TVXQ,2003,2nd,boy,SM,True,5.0,23.0,0,False,
+TraxX,2004,2nd,unknown,SM,True,5.0,8.0,1,True,2012.0
+V.O.S (band),2004,2nd,boy,Star Empire,False,3.0,22.0,0,False,
+Super Junior,2005,2nd,boy,SM,True,13.0,21.0,0,False,
+Gavy NJ,2005,2nd,girl,DSP,False,,17.0,1,True,2022.0
+LPG (South Korean group),2005,2nd,girl,Aquagro,False,19.0,11.0,1,False,2016.0
+Paran (band),2005,2nd,boy,NH Media <small></small,False,5.0,6.0,1,False,2011.0
+SS501,2005,2nd,unknown,DSP,False,5.0,5.0,1,True,2010.0
+The Grace (group),2005,2nd,girl,SM,True,4.0,5.0,1,False,2010.0
+SeeYa,2006,2nd,girl,Mnet,False,4.0,5.0,1,True,2011.0
+Super Junior-K.R.Y.,2006,2nd,boy,SM,True,3.0,20.0,0,False,
+Kangta & Vanness,2006,2nd,unknown,SM,True,1.0,1.0,1,False,2007.0
+Untouchable (band),2006,2nd,unknown,TS,False,2.0,13.0,1,False,2019.0
+Big Bang (band),2006,2nd,boy,YG,True,5.0,12.0,1,True,2018.0
+2NB,2006,2nd,girl,http://www.donutsculture.com/main/index.html Donuts Culture,False,5.0,6.0,1,True,2012.0
+Brown Eyed Girls,2006,2nd,girl,Nega Network,False,4.0,9.0,1,True,2015.0
+Tritops,2007,2nd,boy,Joo Paramount,False,4.0,19.0,0,False,
+T-max,2007,2nd,boy,Planet 905,False,5.0,5.0,1,False,2012.0
+Supernova (South Korean group),2007,2nd,boy,SV,False,6.0,15.0,1,False,2022.0
+Super Junior-T,2007,2nd,boy,SM,True,6.0,1.0,1,False,2008.0
+Sunny Hill,2007,2nd,mixed,My,False,7.0,19.0,0,False,
+Wonder Girls,2007,2nd,girl,JYP,True,7.0,10.0,1,False,2017.0
+Girls' Generation,2007,2nd,girl,SM,True,9.0,10.0,1,True,2017.0
+F.T. Island,2007,2nd,boy,FNC,False,6.0,19.0,0,False,
+Black Pearl (South Korean group),2007,2nd,girl,Core Contents,False,5.0,5.0,1,False,2012.0
+Baby Vox Re.V,2007,2nd,girl,DR,False,7.0,2.0,1,False,2009.0
+Kara (South Korean group),2007,2nd,girl,DSP,False,7.0,9.0,1,True,2016.0
+U-KISS,2008,2nd,boy,NH,False,10.0,18.0,0,False,
+Super Junior-M,2008,2nd,boy,flat list,False,9.0,1.0,1,True,2009.0
+Super Junior-H,2008,2nd,boy,SM,True,6.0,0.5,1,False,2008.0
+Shinee,2008,2nd,boy,SM,True,5.0,18.0,0,False,
+Davichi,2008,2nd,unknown,Core Contents,False,2.0,18.0,0,False,
+2PM,2008,2nd,boy,JYP,True,7.0,9.0,1,True,2017.0
+2AM (band),2008,2nd,boy,HYBE,True,4.0,6.0,1,True,2014.0
+Miss S,2008,2nd,girl,Brand New,False,4.0,18.0,0,False,
+MBLAQ,2009,2nd,boy,J. Tune Camp,False,5.0,6.0,1,False,2015.0
+T-ara,2009,2nd,girl,MBK,False,10.0,8.0,1,True,2017.0
+Secret (South Korean group),2009,2nd,girl,TS,False,5.0,9.0,1,True,2018.0
+Rainbow (girl group),2009,2nd,girl,DSP,False,7.0,7.0,1,False,2016.0
+JQT (group),2009,2nd,girl,GP,False,5.0,3.0,1,False,2012.0
+Urban Zakapa,2009,2nd,mixed,Fluxus,False,9.0,17.0,0,False,
+CNBLUE,2009,2nd,boy,FNC,False,5.0,17.0,0,False,
+Highlight (band),2009,2nd,boy,Around Us,False,6.0,17.0,0,False,
+After School (group),2009,2nd,girl,Pledis,False,11.0,6.0,1,False,2015.0
+4Minute,2009,2nd,girl,Cube,False,5.0,7.0,1,False,2016.0
+2NE1,2009,2nd,girl,YG,True,4.0,7.0,1,True,2016.0
+F(x) (musical group),2009,2nd,girl,SM,True,5.0,7.0,1,False,2016.0
+ZE:A,2010,2nd,boy,Star Empire,False,9.0,7.0,1,False,2017.0
+The Boss (band),2010,2nd,boy,Open World,False,5.0,12.0,1,False,2022.0
+Touch (South Korean group),2010,2nd,boy,YYJ,False,11.0,6.0,1,False,2016.0
+Teen Top,2010,2nd,boy,TOP,False,6.0,16.0,0,False,
+Standing Egg,2010,2nd,unknown,Von,False,3.0,16.0,0,False,
+Sistar,2010,2nd,girl,Starship,False,4.0,7.0,1,False,2017.0
+Rhythm Power,2010,2nd,unknown,Amoeba Culture,False,3.0,16.0,0,False,
+Rooftop Moonlight,2010,2nd,unknown,WOWSANRECORD,False,2.0,16.0,0,False,
+One Way (South Korean band),2010,2nd,boy,independent,False,3.0,6.0,1,False,2016.0
+Nine Muses (group),2010,2nd,girl,Star Empire,False,14.0,9.0,1,False,2019.0
+Orange Caramel,2010,2nd,girl,Pledis,False,3.0,6.0,1,False,2016.0
+Led Apple,2010,2nd,boy,StarKim,False,13.0,6.0,1,False,2016.0
+JYJ,2010,2nd,boy,C-JeS,False,3.0,6.0,1,False,2016.0
+Infinite (group),2010,2nd,boy,Woollim,False,7.0,16.0,0,False,
+Homme (duo),2010,2nd,boy,HYBE,True,2.0,8.0,1,False,2018.0
+GP Basic,2010,2nd,girl,Jacyhan International,False,7.0,5.0,1,False,2015.0
+GD & TOP,2010,2nd,boy,YG,True,,5.0,1,False,2015.0
+Girl's Day,2010,2nd,girl,Dream T,False,7.0,9.0,1,False,2019.0
+F.Cuz,2010,2nd,boy,CAN&J,False,6.0,16.0,0,False,
+DMTN,2010,2nd,boy,Monkey Funch,False,7.0,3.0,1,False,2013.0
+Coed School,2010,2nd,mixed,Core Contents,False,10.0,3.0,1,False,2013.0
+Miss A,2010,2nd,girl,class = nowrap,False,4.0,7.0,1,False,2017.0
+Kim Heechul & Kim Jungmo,2011,2nd,unknown,SM,True,20.0,8.0,1,False,2019.0
+M.I.B (band),2011,2nd,unknown,Jungle,False,4.0,6.0,1,False,2017.0
+Myname,2011,2nd,boy,H2,False,5.0,8.0,1,True,2019.0
+N-Sonic,2011,2nd,boy,C2K,False,9.0,5.0,1,False,2016.0
+N-Train,2011,2nd,boy,Media Line,False,5.0,2.0,1,False,2013.0
+Ulala Session,2011,2nd,boy,Ulala,False,7.0,15.0,0,False,
+Sistar19,2011,2nd,girl,Starship,False,2.0,2.0,1,False,2013.0
+Stellar (group),2011,2nd,girl,The Entertainment Pascal,False,8.0,7.0,1,False,2018.0
+Super Junior-D&E,2011,2nd,boy,SM,True,2.0,4.0,1,True,2015.0
+Geeks (musical duo),2011,2nd,unknown,"Grandline Entertainment, Rainbow Bridge World",False,2.0,15.0,0,False,
+Rania (band),2011,2nd,girl,DR,False,5.0,15.0,0,False,
+F-ve Dolls,2011,2nd,girl,Core Contents,False,8.0,4.0,1,False,2015.0
+Trouble Maker (duo),2011,2nd,mixed,Cube,False,2.0,3.0,1,False,2014.0
+Clover (musical trio),2011,2nd,unknown,GYM,False,3.0,3.0,1,False,2014.0
+AA (band),2011,2nd,boy,Wellmade Yedang,False,6.0,4.0,1,False,2015.0
+Apeace,2011,2nd,boy,Golden Goose,False,1.0,10.0,1,False,2021.0
+Apink,2011,2nd,girl,IST,False,7.0,15.0,0,False,
+B1A4,2011,2nd,boy,B1A4,False,5.0,15.0,0,False,
+Blady,2011,2nd,girl,SY6,False,13.0,6.0,1,False,2017.0
+Dal Shabet,2011,2nd,girl,Dreamcatcher,False,7.0,6.0,1,False,2017.0
+Boyfriend (band),2011,2nd,boy,Starship,False,6.0,8.0,1,True,2019.0
+BB Girls,2011,2nd,girl,Brave,False,4.0,2.0,1,True,2013.0
+C-REAL,2011,2nd,girl,N.A.P,False,5.0,3.0,1,False,2014.0
+Chocolat (group),2011,2nd,girl,HBO,False,5.0,6.0,1,False,2017.0
+Block B,2011,2nd,boy,Seven Seasons,False,7.0,15.0,0,False,
+She'z,2012,3rd,girl,"Line Entertainment, Sony Music Entertainment Korea",False,4.0,2.0,1,False,2014.0
+Honey G (band),2012,3rd,boy,"Chungchun Music, CJ E&M",False,3.0,14.0,0,False,
+JJ Project,2012,3rd,boy,JYP,True,2.0,5.0,1,False,2017.0
+Lunafly,2012,3rd,boy,Nega Network,False,5.0,4.0,1,False,2016.0
+Mr.Mr (band),2012,3rd,boy,,False,9.0,9.0,1,False,2021.0
+NU'EST,2012,3rd,boy,Pledis,False,5.0,10.0,1,False,2022.0
+Phantom (band),2012,3rd,unknown,Brand New,False,3.0,3.0,1,False,2015.0
+Puretty,2012,3rd,girl,DSP,False,5.0,2.0,1,False,2014.0
+Skarf,2012,3rd,girl,Alpha Entertainment Korea,False,6.0,2.0,1,False,2014.0
+Tiny-G,2012,3rd,girl,LOEN,False,4.0,3.0,1,False,2015.0
+Spica (group),2012,3rd,girl,CJ E&M,False,5.0,5.0,1,False,2017.0
+Sunny Days (group),2012,3rd,girl,Haeun,False,12.0,4.0,1,False,2016.0
+Tasty (band),2012,3rd,boy,Woollim Entertainment <small></small,False,2.0,3.0,1,False,2015.0
+The SeeYa,2012,3rd,girl,MBK,False,4.0,3.0,1,False,2015.0
+Hello Venus,2012,3rd,girl,Fantagio,False,8.0,7.0,1,False,2019.0
+Two X,2012,3rd,girl,J. Tune Camp,False,5.0,5.0,1,False,2017.0
+VIXX,2012,3rd,boy,Jellyfish,False,6.0,14.0,0,False,
+Wonder Boyz,2012,3rd,boy,Ent102,False,4.0,2.0,1,False,2014.0
+Speed (South Korean band),2012,3rd,boy,MBK,False,10.0,3.0,1,False,2015.0
+Glam (group),2012,3rd,girl,Source,False,5.0,3.0,1,False,2015.0
+Tahiti (group),2012,3rd,girl,JLine,False,10.0,6.0,1,False,2018.0
+Gangkiz,2012,3rd,girl,Core Contents,False,7.0,2.0,1,False,2014.0
+100% (band),2012,3rd,boy,TOP,False,7.0,9.0,1,False,2021.0
+15&,2012,3rd,girl,JYP,True,2.0,3.0,1,False,2015.0
+24K (band),2012,3rd,boy,Choeun,False,19.0,14.0,0,False,
+A.cian,2012,3rd,boy,Wings,False,11.0,8.0,1,False,2020.0
+A-Jax (band),2012,3rd,boy,DSP,False,8.0,6.0,1,False,2018.0
+AOA (group),2012,3rd,girl,FNC,False,8.0,8.0,1,False,2020.0
+B.A.P (South Korean band),2012,3rd,boy,TS,False,6.0,7.0,1,False,2019.0
+Big Star (South Korean band),2012,3rd,boy,Brave,False,5.0,7.0,1,False,2019.0
+A-Prince,2012,3rd,boy,New Planet,False,5.0,3.0,1,False,2015.0
+C-Clown,2012,3rd,boy,Yedang,False,6.0,3.0,1,False,2015.0
+BtoB (band),2012,3rd,boy,Cube,False,7.0,14.0,0,False,
+Exo,2012,3rd,boy,SM,True,12.0,14.0,0,False,
+EXID,2012,3rd,girl,AB,False,8.0,8.0,1,True,2020.0
+EvoL,2012,3rd,girl,Stardom,False,5.0,3.0,1,False,2015.0
+Fiestar,2012,3rd,girl,Kakao M,False,6.0,6.0,1,True,2018.0
+Cross Gene,2012,3rd,boy,Amuse Korea,False,7.0,9.0,1,True,2021.0
+Crayon Pop,2012,3rd,girl,Chrome,False,5.0,7.0,1,False,2019.0
+D-Unit,2012,3rd,girl,D-Business,False,4.0,1.0,1,False,2013.0
+Girls' Generation-TTS,2012,3rd,girl,SM,True,3.0,5.0,1,False,2017.0
+Ladies' Code,2013,3rd,girl,Polaris,False,5.0,7.0,1,False,2020.0
+Wassup (band),2013,3rd,girl,Mafia,False,7.0,6.0,1,False,2019.0
+Xeno-T,2013,3rd,boy,Stardom,False,13.0,8.0,1,False,2021.0
+T-ara N4,2013,3rd,girl,MBK,False,4.0,0.5,1,False,2013.0
+Soohyun & Hoon,2013,3rd,boy,Tango,False,2.0,13.0,0,False,
+Royal Pirates,2013,3rd,unknown,Universal Music Korea,False,4.0,3.0,1,False,2016.0
+QBS (band),2013,3rd,girl,EMI Japan,False,3.0,0.5,1,False,2013.0
+M.Pire,2013,3rd,boy,Benjamin,False,7.0,2.0,1,False,2015.0
+LC9 (band),2013,3rd,boy,Nega Network,False,6.0,2.0,1,False,2015.0
+Infinite H,2013,3rd,boy,Woollim,False,2.0,4.0,1,False,2017.0
+GI (group),2013,3rd,girl,Simtong Entertainment <small></small,False,11.0,3.0,1,True,2016.0
+BTS,2013,3rd,boy,HYBE,True,8.0,13.0,0,False,
+Boys Republic (band),2013,3rd,boy,Universal,False,5.0,5.0,1,False,2018.0
+Bestie (group),2013,3rd,girl,YNB,False,4.0,5.0,1,True,2018.0
+AOA Black,2013,3rd,girl,FNC,False,5.0,1.0,1,False,2014.0
+AlphaBat,2013,3rd,boy,Simtong,False,11.0,13.0,0,False,
+5urprise,2013,3rd,boy,Fantagio,False,5.0,7.0,1,False,2020.0
+2Yoon,2013,3rd,girl,Cube,False,2.0,0.5,1,False,2013.0
+2Eyes,2013,3rd,girl,SidusHQ/LOEN,False,5.0,2.0,1,False,2015.0
+History (band),2013,3rd,boy,LOEN,False,5.0,4.0,1,False,2017.0
+Nasty Nasty (band),2014,3rd,mixed,Star Empire,False,3.0,0.5,1,False,2014.0
+Minx (band),2014,3rd,girl,Dreamcatcher,False,7.0,12.0,0,False,
+Melody Day (group),2014,3rd,girl,Cre.ker,False,4.0,4.0,1,False,2018.0
+Lip Service (group),2014,3rd,girl,Chorok,False,4.0,3.0,1,False,2017.0
+Madtown,2014,3rd,boy,J. Tune Camp,False,7.0,3.0,1,False,2017.0
+Lovelyz,2014,3rd,girl,Woollim,False,8.0,7.0,1,True,2021.0
+Play the Siren,2014,3rd,mixed,Baljunso,False,6.0,12.0,0,False,
+Mamamoo,2014,3rd,girl,RBW,False,4.0,12.0,0,False,
+Red Velvet (group),2014,3rd,girl,SM,True,5.0,12.0,0,False,
+Toheart (band),2014,3rd,boy,SM,True,2.0,0.5,1,False,2014.0
+Strawberry Milk,2014,3rd,girl,Chrome,False,5.0,5.0,1,False,2019.0
+The Barberettes,2014,3rd,girl,EggPlant,False,3.0,5.0,1,False,2019.0
+The Legend (band),2014,3rd,boy,SS,False,5.0,3.0,1,False,2017.0
+Troy (band),2014,3rd,boy,Brand New,False,4.0,12.0,0,False,
+Year 7 Class 1,2014,3rd,girl,DRB,False,7.0,4.0,1,False,2018.0
+Uniq (band),2014,3rd,boy,Yuehua,False,5.0,4.0,1,False,2018.0
+Wings (duo),2014,3rd,girl,Sony Music Korea,False,2.0,4.0,1,False,2018.0
+Winner (band),2014,3rd,boy,YG,True,5.0,12.0,0,False,
+Laboum,2014,3rd,girl,Global H,False,6.0,8.0,1,False,2022.0
+Sonamoo,2014,3rd,girl,TS,False,7.0,7.0,1,False,2021.0
+JJCC,2014,3rd,boy,Jackie Chan Group Korea,False,7.0,7.0,1,False,2021.0
+AKMU,2014,3rd,mixed,YG,True,2.0,12.0,0,False,
+Hotshot (band),2014,3rd,boy,Star Crew,False,6.0,7.0,1,False,2021.0
+Infinite F,2014,3rd,boy,Woollim,False,3.0,5.0,1,False,2019.0
+2000 Won,2014,3rd,boy,Reve Entertainment <small></small,False,2.0,12.0,0,False,
+4L (group),2014,3rd,girl,Jade Contents,False,4.0,2.0,1,False,2016.0
+4Ten,2014,3rd,girl,Jungle,False,7.0,2.0,1,False,2016.0
+B.I.G (band),2014,3rd,boy,GH,False,6.0,10.0,1,False,2024.0
+Badkiz,2014,3rd,girl,US,False,1.0,6.0,1,True,2020.0
+Be.A,2014,3rd,boy,Chrome,False,6.0,4.0,1,False,2018.0
+Beatwin,2014,3rd,boy,Elen,False,7.0,3.0,1,False,2017.0
+Berry Good,2014,3rd,girl,Asia Bridge,False,9.0,7.0,1,False,2021.0
+Almeng,2014,3rd,unknown,,False,3.0,12.0,0,False,
+Bob Girls,2014,3rd,girl,Chrome,False,4.0,1.0,1,False,2015.0
+Bursters,2014,3rd,unknown,Evermore,False,6.0,12.0,0,False,
+D.Holic,2014,3rd,girl,Star Road,False,9.0,3.0,1,False,2017.0
+GD X Taeyang,2014,3rd,boy,YG,True,2.0,1.0,1,False,2015.0
+Got7,2014,3rd,boy,JYP,True,7.0,12.0,0,False,
+HALO (South Korean group),2014,3rd,boy,Histar,False,6.0,5.0,1,False,2019.0
+HeartB,2014,3rd,boy,MarblePop,False,4.0,1.0,1,False,2015.0
+Hi Suhyun,2014,3rd,girl,YG,True,2.0,0.5,1,False,2014.0
+High4 (band),2014,3rd,boy,N.A.P,False,4.0,3.0,1,False,2017.0
+Bigflo,2014,3rd,boy,HO,False,9.0,6.0,1,True,2020.0
+Playback (South Korean group),2015,3rd,girl,Coridel,False,5.0,2.0,1,False,2017.0
+Romeo (band),2015,3rd,boy,Pony Canyon Korea,False,7.0,2.0,1,False,2017.0
+Rubber Soul (group),2015,3rd,girl,Universal,False,3.0,11.0,0,False,
+Seventeen (South Korean band),2015,3rd,boy,Pledis,False,13.0,11.0,0,False,
+VAV (band),2015,3rd,boy,A Team,False,10.0,9.0,1,False,2024.0
+Twice,2015,3rd,girl,JYP,True,9.0,11.0,0,False,
+Unicorn (South Korean group),2015,3rd,girl,Show Brothers,False,5.0,2.0,1,False,2017.0
+Up10tion,2015,3rd,boy,TOP,False,10.0,7.0,1,False,2022.0
+VIXX LR,2015,3rd,boy,Jellyfish,False,2.0,2.0,1,False,2017.0
+Oh My Girl,2015,3rd,girl,WM,False,8.0,11.0,0,False,
+Snuper,2015,3rd,boy,Widmay,False,6.0,8.0,1,False,2023.0
+N.Flying,2015,3rd,boy,FNC,False,6.0,11.0,0,False,
+MAP6 (band),2015,3rd,boy,All-S,False,5.0,4.0,1,False,2019.0
+Monsta X,2015,3rd,boy,Starship,False,7.0,11.0,0,False,
+MyB,2015,3rd,girl,Maroo,False,6.0,1.0,1,False,2016.0
+1Punch,2015,3rd,unknown,Brave,False,2.0,0.5,1,False,2015.0
+Bastarz,2015,3rd,boy,KQ,False,3.0,11.0,0,False,
+CLC (group),2015,3rd,girl,Cube,False,7.0,6.0,1,True,2021.0
+April (band),2015,3rd,girl,DSP,False,8.0,7.0,1,False,2022.0
+DIA (group),2015,3rd,girl,MBK,False,10.0,7.0,1,False,2022.0
+GFriend,2015,3rd,girl,Source,False,6.0,6.0,1,True,2021.0
+IKon,2015,3rd,boy,YG,True,7.0,11.0,0,False,
+MAS (band),2015,3rd,boy,RBW,False,5.0,11.0,0,False,
+Day6,2015,3rd,unknown,Studio J,False,6.0,11.0,0,False,
+NCT Dream,2016,3rd,boy,SM,True,7.0,10.0,0,False,
+Momoland,2016,3rd,girl,MLD,False,9.0,7.0,1,True,2023.0
+NCT (group),2016,3rd,boy,SM,True,1.0,10.0,0,False,
+NCT U,2016,3rd,boy,SM,True,1.0,10.0,0,False,
+NCT 127,2016,3rd,boy,SM,True,10.0,10.0,0,False,
+Nine Muses A,2016,3rd,girl,Star Empire,False,4.0,1.0,1,False,2017.0
+Vromance,2016,3rd,boy,RBW,False,4.0,8.0,1,False,2024.0
+SF9,2016,3rd,boy,FNC,False,9.0,10.0,0,False,
+Victon,2016,3rd,boy,IST,False,7.0,10.0,0,False,
+Cosmic Girls,2016,3rd,girl,Starship,False,13.0,7.0,1,True,2023.0
+MOBB,2016,3rd,boy,YG,True,2.0,3.0,1,False,2019.0
+Pentagon (South Korean band),2016,3rd,boy,Cube,False,10.0,10.0,0,False,
+MASC (band),2016,3rd,boy,JJ Holic,False,8.0,4.0,1,True,2020.0
+The East Light,2016,3rd,boy,Media Line,False,6.0,2.0,1,False,2018.0
+Imfact,2016,3rd,boy,Star Empire,False,5.0,4.0,1,False,2020.0
+AOA Cream,2016,3rd,girl,FNC,False,3.0,0.5,1,False,2016.0
+Astro (South Korean band),2016,3rd,boy,Fantagio,False,6.0,10.0,0,False,
+Bolbbalgan4,2016,3rd,girl,King,False,2.0,10.0,0,False,
+KNK (band),2016,3rd,boy,220,False,7.0,10.0,0,False,
+Boys24,2016,3rd,boy,MMO/CJ E&M,False,,1.0,1,False,2017.0
+BtoB Blue,2016,3rd,boy,Cube,False,4.0,2.0,1,False,2018.0
+Blackpink,2016,3rd,girl,YG,True,4.0,10.0,0,False,
+Double S 301,2016,3rd,boy,DSP,False,3.0,1.0,1,False,2017.0
+Exo-CBX,2016,3rd,boy,SM,True,3.0,10.0,0,False,
+Gugudan,2016,3rd,girl,Jellyfish,False,9.0,4.0,1,False,2020.0
+I.B.I,2016,3rd,girl,LOEN,False,5.0,0.5,1,False,2016.0
+I.O.I,2016,3rd,girl,YMC,False,11.0,1.0,1,True,2017.0
+CocoSori,2016,3rd,unknown,Mole,False,2.0,3.0,1,False,2019.0
+Rainz (band),2017,3rd,boy,Kiss,False,7.0,1.0,1,False,2018.0
+MXM (musical duo),2017,3rd,boy,Brand New,False,2.0,1.0,1,False,2018.0
+Myteen,2017,3rd,boy,Music Works,False,7.0,2.0,1,False,2019.0
+NU'EST W,2017,3rd,boy,Pledis,False,4.0,1.0,1,False,2018.0
+ONF (band),2017,3rd,boy,WM,False,7.0,9.0,0,False,
+P.O.P (band),2017,3rd,girl,DWM,False,6.0,1.0,1,False,2018.0
+Pristin,2017,3rd,girl,Pledis,False,10.0,1.0,1,False,2018.0
+S.I.S (group),2017,3rd,girl,http://xx-ent.com/ Double X,False,6.0,3.0,1,False,2020.0
+TST (band),2017,3rd,boy,KJ,False,7.0,3.0,1,False,2020.0
+Stray Kids,2017,3rd,boy,JYP,True,9.0,9.0,0,False,
+The Boyz (South Korean band),2017,3rd,boy,IST,False,12.0,9.0,0,False,
+The Rose (band),2017,3rd,unknown,J&Star,False,4.0,9.0,0,False,
+TRCNG,2017,3rd,boy,TS,False,10.0,5.0,1,False,2022.0
+Triple H (band),2017,3rd,mixed,Cube,False,3.0,1.0,1,False,2018.0
+Mind U,2017,3rd,unknown,Starship,False,2.0,9.0,0,False,
+Varsity (group),2017,3rd,boy,"CSO, Jungle",False,12.0,3.0,1,False,2020.0
+Wanna One,2017,3rd,boy,YMC,False,12.0,2.0,1,True,2019.0
+Weki Meki,2017,3rd,girl,Fantagio,False,8.0,7.0,1,False,2024.0
+Seven O'Clock,2017,3rd,boy,Staro,False,8.0,4.0,1,False,2021.0
+M.O.N.T,2017,3rd,boy,FM,False,3.0,9.0,0,False,
+Longguo & Shihyun,2017,3rd,boy,Choon,False,2.0,1.0,1,False,2018.0
+Kard (band),2017,3rd,mixed,DSP,False,4.0,9.0,1,False,2026.0
+14U,2017,3rd,boy,BG,False,15.0,2.0,1,False,2019.0
+A.C.E (South Korean band),2017,3rd,boy,Beat Interactive,False,5.0,9.0,0,False,
+Boy Story,2017,3rd,boy,JYP,True,7.0,9.0,0,False,
+Busters (group),2017,3rd,girl,Marbling E&M Inc,False,14.0,8.0,1,False,2025.0
+Dreamcatcher (group),2017,3rd,girl,Dreamcatcher,False,7.0,9.0,0,False,
+Duetto (duo),2017,3rd,unknown,Starship,False,2.0,9.0,0,False,
+Elris,2017,3rd,girl,Hunus,False,7.0,7.0,1,False,2024.0
+Favorite (group),2017,3rd,girl,Astory,False,6.0,7.0,1,False,2024.0
+Good Day (band),2017,3rd,girl,C9,False,10.0,2.0,1,False,2019.0
+GreatGuys,2017,3rd,boy,DNA,False,9.0,8.0,1,False,2025.0
+HashTag (group),2017,3rd,girl,Luk Factory,False,7.0,7.0,1,False,2024.0
+Honeyst,2017,3rd,boy,FNC,False,4.0,2.0,1,False,2019.0
+Hyeongseop X Euiwoong,2017,3rd,boy,Yuehua,False,2.0,1.0,1,False,2018.0
+In2It,2017,3rd,boy,MMO,False,8.0,8.0,1,False,2025.0
+IZ (band),2017,3rd,boy,Music K,False,4.0,9.0,0,False,
+JBJ (band),2017,3rd,boy,Fave,False,6.0,1.0,1,False,2018.0
+Golden Child (band),2017,3rd,boy,Woollim,False,11.0,9.0,0,False,
+NTB (band),2018,4th,boy,High Choice,False,6.0,3.0,1,True,2021.0
+Oh!GG,2018,4th,girl,SM,True,5.0,8.0,0,False,
+Pink Fantasy,2018,4th,girl,Play Maker E&M,False,12.0,6.0,1,False,2024.0
+Pristin V,2018,4th,girl,Pledis,False,5.0,0.5,1,False,2018.0
+Saturday (group),2018,4th,girl,"SD Entertainment, Yoonso",False,9.0,6.0,1,False,2024.0
+Spectrum (group),2018,4th,boy,WYNN,False,7.0,2.0,1,False,2020.0
+We Girls,2018,4th,girl,Aftermoon,False,1.0,4.0,1,False,2022.0
+UNB (group),2018,4th,boy,,False,9.0,1.0,1,True,2019.0
+Uni.T,2018,4th,girl,PocketDol,False,9.0,0.5,1,False,2018.0
+W24 (band),2018,4th,unknown,Favor,False,5.0,8.0,0,False,
+WJMK (band),2018,4th,girl,Starship,False,4.0,0.5,1,False,2018.0
+Noir (band),2018,4th,boy,Luk Factory,False,9.0,5.0,1,False,2023.0
+Target (South Korean band),2018,4th,boy,JSL,False,7.0,2.0,1,False,2020.0
+NeonPunch,2018,4th,girl,A100,False,6.0,2.0,1,False,2020.0
+K/DA,2018,4th,unknown,Riot Games,False,6.0,2.0,1,True,2020.0
+Maywish,2018,4th,girl,J9,False,4.0,1.0,1,False,2019.0
+Ateez,2018,4th,boy,KQ,False,8.0,8.0,0,False,
+D-Crunch,2018,4th,boy,"All-S Company, Ai Grand Korea",False,9.0,4.0,1,False,2022.0
+Dream Note,2018,4th,girl,iMe Korea,False,8.0,7.0,1,False,2025.0
+Fromis 9,2018,4th,girl,Stone,False,9.0,8.0,0,False,
+(G)I-dle,2018,4th,girl,Cube,False,9.0,8.0,0,False,
+Girlkind,2018,4th,girl,Nextlevel,False,5.0,4.0,1,False,2022.0
+Nature (band),2018,4th,girl,n.CH,False,10.0,6.0,1,False,2024.0
+GWSN,2018,4th,girl,The Wave,False,8.0,5.0,1,False,2023.0
+Honey Popcorn,2018,4th,girl,Kyun Create,False,6.0,3.0,1,False,2021.0
+Iz*One,2018,4th,girl,Off the Record,False,13.0,3.0,1,False,2021.0
+JBJ95,2018,4th,unknown,Star Road,False,2.0,8.0,0,False,
+Loona,2018,4th,girl,Blockberry Creative,False,12.0,5.0,1,False,2023.0
+Gugudan SeMiNa,2018,4th,girl,Jellyfish,False,3.0,2.0,1,False,2020.0
+MustB,2019,4th,boy,MustM,False,7.0,4.0,1,True,2023.0
+Newkidd,2019,4th,boy,J-Flo,False,8.0,7.0,0,False,
+Oneus,2019,4th,boy,B.Wave,False,6.0,7.0,0,False,
+Onewe,2019,4th,boy,RBW,False,5.0,7.0,0,False,
+OnlyOneOf,2019,4th,boy,8D,False,7.0,7.0,0,False,
+Purple Rain (band),2019,4th,unknown,JTBC,False,5.0,1.0,1,False,2020.0
+Purplebeck,2019,4th,girl,Majesty,False,5.0,4.0,1,False,2023.0
+Teen Teen,2019,4th,boy,Maroo,False,3.0,2.0,1,False,2021.0
+SuperM,2019,4th,boy,SM,True,7.0,2.0,1,False,2021.0
+Tomorrow X Together,2019,4th,boy,HYBE,True,5.0,7.0,0,False,
+Vanner (band),2019,4th,boy,VT,False,5.0,6.0,1,False,2025.0
+Verivery,2019,4th,boy,Jellyfish,False,7.0,7.0,0,False,
+We in the Zone,2019,4th,boy,Choon,False,5.0,2.0,1,False,2021.0
+Jus2,2019,4th,boy,JYP,True,2.0,0.5,1,False,2019.0
+X1 (band),2019,4th,boy,Swing,False,11.0,0.5,1,False,2019.0
+Rocket Punch,2019,4th,girl,Woollim,False,6.0,5.0,1,False,2024.0
+Wooseok x Kuanlin,2019,4th,unknown,Cube,False,2.0,0.5,1,False,2019.0
+Itzy,2019,4th,girl,JYP,True,5.0,7.0,0,False,
+Hinapia,2019,4th,girl,OSR,False,5.0,1.0,1,False,2020.0
+Hoppipolla (band),2019,4th,unknown,Moss,False,4.0,2.0,1,False,2021.0
+1the9,2019,4th,boy,PocketDol,False,10.0,1.0,1,False,2020.0
+3YE,2019,4th,girl,GH,False,3.0,5.0,1,False,2024.0
+AB6IX,2019,4th,boy,Brand New,False,6.0,7.0,0,False,
+Ariaz,2019,4th,girl,Rising Star,False,6.0,5.0,1,False,2024.0
+Argon (band),2019,4th,boy,MSH,False,6.0,2.0,1,False,2021.0
+BDC (group),2019,4th,boy,Brand New,False,3.0,4.0,1,False,2023.0
+Bvndit,2019,4th,girl,MNH,False,5.0,3.0,1,False,2022.0
+1Team,2019,4th,boy,Live Works,False,5.0,1.0,1,False,2020.0
+CIX (band),2019,4th,boy,C9,False,5.0,7.0,1,False,2026.0
+D1CE,2019,4th,boy,Dreamcatcher,False,5.0,4.0,1,False,2023.0
+DKZ,2019,4th,boy,,False,8.0,7.0,1,False,2026.0
+ENOi,2019,4th,boy,KiTheWhale,False,7.0,2.0,1,False,2021.0
+Everglow,2019,4th,girl,YH,False,6.0,7.0,0,False,
+Exo-SC,2019,4th,boy,SM,True,2.0,1.0,1,False,2020.0
+Fanatics (group),2019,4th,girl,FENT,False,8.0,5.0,1,False,2024.0
+Cherry Bullet,2019,4th,girl,FNC,False,10.0,5.0,1,False,2024.0
+MCND,2020,4th,boy,TOP,False,5.0,6.0,0,False,
+NiziU,2020,4th,girl,JYP,True,10.0,6.0,0,False,
+P1Harmony,2020,4th,boy,FNC,False,6.0,6.0,0,False,
+Redsquare,2020,4th,girl,Iconic MnE,False,6.0,2.0,1,False,2022.0
+Red Velvet – Irene & Seulgi,2020,4th,girl,SM,True,2.0,6.0,0,False,
+Refund Sisters,2020,4th,unknown,MBC,False,4.0,0.5,1,False,2020.0
+Secret Number,2020,4th,girl,Vine,False,11.0,6.0,0,False,
+Treasure (band),2020,4th,boy,YG,True,12.0,6.0,0,False,
+STAYC,2020,4th,girl,High Up,False,6.0,6.0,0,False,
+TO1,2020,4th,boy,WakeOne,False,13.0,3.0,1,False,2023.0
+Wooah,2020,4th,girl,H,False,6.0,6.0,0,False,
+Weeekly,2020,4th,girl,IST,False,7.0,5.0,1,False,2025.0
+WEi,2020,4th,boy,Oui,False,6.0,6.0,0,False,
+Lunarsolar,2020,4th,girl,JPlanet,False,4.0,2.0,1,False,2022.0
+SSAK3,2020,4th,mixed,MBC,False,3.0,0.5,1,False,2020.0
+H&D,2020,4th,boy,Pocketdol,False,2.0,0.5,1,False,2020.0
+UNVS,2020,4th,boy,Chitwn,False,8.0,2.0,1,False,2022.0
+Day6 (Even of Day),2020,4th,boy,Studio J,False,3.0,6.0,0,False,
+Ghost9,2020,4th,boy,Maroo,False,9.0,6.0,0,False,
+Aespa,2020,4th,girl,SM,True,4.0,6.0,0,False,
+Moonbin & Sanha,2020,4th,boy,Fantagio,False,2.0,3.0,1,False,2023.0
+BAE173,2020,4th,boy,PocketDol,False,9.0,6.0,1,False,2026.0
+Blackswan,2020,4th,girl,DR,False,5.0,6.0,0,False,
+Botopass,2020,4th,girl,"WKS ENE, JMG",False,8.0,2.0,1,False,2022.0
+BtoB 4U,2020,4th,boy,Cube,False,4.0,1.0,1,False,2021.0
+B.O.Y,2020,4th,boy,Music Works,False,2.0,1.0,1,False,2021.0
+Cravity,2020,4th,boy,Starship,False,9.0,6.0,0,False,
+Craxy,2020,4th,girl,Level ENM,False,5.0,6.0,0,False,
+DKB (band),2020,4th,boy,Brave,False,9.0,6.0,0,False,
+Drippin,2020,4th,boy,Woollim,False,7.0,6.0,0,False,
+E'Last,2020,4th,boy,E,False,8.0,6.0,1,False,2026.0
+Enhypen,2020,4th,boy,Belift Lab,False,7.0,6.0,0,False,
+Cignature,2020,4th,girl,J9,False,9.0,4.0,1,False,2024.0
+NTX (group),2021,4th,boy,Victory,False,10.0,5.0,0,False,
+Omega X,2021,4th,boy,Spire,False,11.0,5.0,0,False,
+Pixy (group),2021,4th,girl,Allart,False,7.0,3.0,1,False,2024.0
+Purple Kiss,2021,4th,girl,RBW,False,7.0,4.0,1,False,2025.0
+Tri.be,2021,4th,girl,TR,False,7.0,3.0,1,False,2024.0
+The KingDom,2021,4th,boy,GF,False,8.0,5.0,0,False,
+Xdinary Heroes,2021,4th,unknown,Studio J,False,6.0,5.0,0,False,
+Mirae (band),2021,4th,boy,DSP,False,7.0,3.0,1,False,2024.0
+TFN (group),2021,4th,boy,MLD/Sony Korea,False,9.0,3.0,1,False,2024.0
+Luminous (group),2021,4th,boy,SE,False,4.0,4.0,1,False,2025.0
+Ive (group),2021,4th,girl,Starship,False,6.0,5.0,0,False,
+Just B,2021,4th,boy,Bluedot,False,6.0,5.0,0,False,
+Isegye Idol,2021,4th,unknown,,False,6.0,5.0,0,False,
+Ichillin',2021,4th,girl,KM,False,8.0,5.0,0,False,
+Hot Issue (group),2021,4th,girl,S2,False,7.0,1.0,1,False,2022.0
+Epex,2021,4th,boy,C9,False,8.0,5.0,0,False,
+Ciipher,2021,4th,boy,R.A.I.N.,False,7.0,4.0,1,False,2025.0
+BugAboo,2021,4th,girl,A Team,False,6.0,1.0,1,False,2022.0
+Blitzers,2021,4th,boy,Wuzo,False,7.0,5.0,0,False,
+Billlie,2021,4th,girl,Mystic Story,False,7.0,5.0,0,False,
+Lightsum,2021,4th,girl,Cube,False,8.0,5.0,0,False,
+Mimiirose,2022,4th,girl,Pocket7,False,7.0,4.0,1,False,2026.0
+NewJeans,2022,4th,girl,ADOR,False,5.0,4.0,0,False,
+Nmixx,2022,4th,girl,JYP,True,7.0,4.0,0,False,
+Superkind,2022,4th,boy,Deep,False,7.0,3.0,1,False,2025.0
+TAN (group),2022,4th,boy,Think,False,7.0,2.0,1,False,2024.0
+WSG Wannabe,2022,4th,unknown,MBC,False,12.0,0.5,1,False,2022.0
+TNX (group),2022,4th,boy,P Nation,False,6.0,4.0,0,False,
+Trendz (group),2022,4th,boy,Interpark Music Plus,False,7.0,4.0,0,False,
+Viviz,2022,4th,girl,BPM,False,3.0,4.0,0,False,
+Younite,2022,4th,boy,Brand New,False,9.0,4.0,0,False,
+Mamamoo+,2022,4th,unknown,RBW,False,2.0,4.0,0,False,
+Tempest (South Korean band),2022,4th,boy,YH,False,7.0,4.0,1,False,2026.0
+Le Sserafim,2022,4th,girl,Source,False,6.0,4.0,0,False,
+Jinjin & Rocky,2022,4th,boy,Fantagio,False,2.0,1.0,1,False,2023.0
+Kep1er,2022,4th,girl,WakeOne,False,9.0,4.0,0,False,
+Lapillus (group),2022,4th,girl,MLD,False,6.0,3.0,1,False,2025.0
+&Team,2022,4th,boy,YX,False,9.0,4.0,0,False,
+Aimers (band),2022,4th,boy,Hyper Rhythm,False,6.0,4.0,0,False,
+Blank2y,2022,4th,boy,Keystone,False,9.0,1.0,1,False,2023.0
+Classy (group),2022,4th,girl,M25,False,7.0,4.0,0,False,
+ATBO,2022,4th,boy,IST,False,7.0,3.0,1,False,2025.0
+Fifty Fifty (group),2022,4th,girl,Attrakt,False,8.0,4.0,0,False,
+Got the Beat,2022,4th,girl,SM,True,7.0,1.0,1,False,2023.0
+H1-Key,2022,4th,girl,GLG,False,5.0,4.0,0,False,
+ILY:1,2022,4th,girl,FC ENM & Newways,False,6.0,2.0,1,False,2024.0
+Irris,2022,4th,girl,Justice,False,4.0,0.5,1,False,2022.0
+CSR (group),2022,4th,girl,A2Z,False,7.0,4.0,0,False,
+Riize,2023,5th,boy,SM,True,7.0,3.0,0,False,
+Zerobaseone,2023,5th,boy,WakeOne,False,9.0,3.0,0,False,
+Plave,2023,5th,boy,Vlast,False,5.0,3.0,0,False,
+Pow (band),2023,5th,boy,Grid,False,5.0,3.0,0,False,
+Primrose (group),2023,5th,girl,A.O,False,5.0,3.0,0,False,
+Shownu X Hyungwon,2023,5th,boy,Starship,False,2.0,3.0,0,False,
+Young Posse,2023,5th,girl,DSP,False,5.0,3.0,0,False,
+TIOT,2023,5th,boy,Redstart ENM,False,5.0,3.0,0,False,
+TripleS,2023,5th,girl,Modhaus,False,1.0,3.0,0,False,
+Xikers,2023,5th,boy,KQ,False,10.0,3.0,0,False,
+X:IN,2023,5th,girl,BeBy,False,7.0,3.0,0,False,
+Xodiac (band),2023,5th,boy,One Cool Jacso,False,9.0,3.0,0,False,
+Nexz,2023,5th,boy,JYP,True,7.0,3.0,0,False,
+The Wind (South Korean band),2023,5th,boy,PPangStar,False,7.0,3.0,0,False,
+NCT Wish,2023,5th,boy,SM,True,6.0,3.0,0,False,
+One Pact,2023,5th,boy,Armada,False,5.0,3.0,0,False,
+N.SSign,2023,5th,boy,n.CH,False,10.0,3.0,0,False,
+NCT DoJaeJung,2023,5th,boy,SM,True,3.0,0.5,1,False,2023.0
+8Turn,2023,5th,boy,MNH,False,8.0,3.0,0,False,
+Ampers&One,2023,5th,boy,FNC,False,7.0,3.0,0,False,
+Babymonster,2023,5th,girl,YG,True,7.0,3.0,0,False,
+BoyNextDoor,2023,5th,boy,KOZ,False,6.0,3.0,0,False,
+BXB (group),2023,5th,boy,APR,False,6.0,3.0,1,False,2026.0
+El7z Up,2023,5th,girl,Apple Monster,False,7.0,0.5,1,False,2023.0
+82Major,2023,5th,boy,Great M,False,6.0,3.0,0,False,
+Fantasy Boys (group),2023,5th,boy,PocketDol,False,11.0,3.0,0,False,
+Hori7on,2023,5th,boy,MLD,False,8.0,3.0,0,False,
+Kiss of Life (group),2023,5th,girl,S2,False,4.0,3.0,0,False,
+Loossemble,2023,5th,girl,CTDENM,False,5.0,1.0,1,False,2024.0
+Lun8,2023,5th,boy,Fantagio,False,9.0,3.0,0,False,
+Mave:,2023,5th,girl,Metaverse,False,4.0,3.0,0,False,
+Evnne,2023,5th,boy,Jellyfish,False,7.0,3.0,0,False,
+Mytro,2024,5th,boy,SM,True,5.0,1.0,1,False,2025.0
+NOMAD (group),2024,5th,boy,Nomad,False,5.0,2.0,1,False,2026.0
+Nowz,2024,5th,boy,Cube,False,5.0,2.0,0,False,
+Rescene,2024,5th,girl,The Muze,False,5.0,2.0,0,False,
+Say My Name (group),2024,5th,girl,Inkode,False,8.0,2.0,0,False,
+VVUP,2024,5th,girl,EgoENT,False,5.0,2.0,0,False,
+Unis (group),2024,5th,girl,F&F,False,8.0,2.0,1,False,2026.0
+Waker,2024,5th,boy,Howling,False,6.0,2.0,0,False,
+Waterfire (band),2024,5th,boy,"Waterfire Co., Ltd",False,4.0,0.5,1,False,2024.0
+Meovv,2024,5th,girl,The Black,False,5.0,2.0,0,False,
+TWS (group),2024,5th,boy,Pledis,False,6.0,2.0,0,False,
+Madein,2024,5th,girl,143,False,7.0,2.0,0,False,
+Genblue,2024,5th,girl,Ten,False,6.0,2.0,0,False,
+Illit,2024,5th,unknown,Belift,False,5.0,2.0,0,False,
+Izna,2024,5th,girl,WakeOne,False,7.0,2.0,0,False,
+ARrC,2024,5th,boy,Mystic Story,False,8.0,2.0,1,False,2026.0
+Artms,2024,5th,girl,Modhaus,False,5.0,2.0,0,False,
+B.D.U,2024,5th,boy,Orca,False,4.0,2.0,1,False,2026.0
+Badvillain,2024,5th,girl,BPM,False,7.0,2.0,0,False,
+All(H)Ours,2024,5th,boy,Eden,False,7.0,2.0,0,False,
+Candy Shop (group),2024,5th,girl,Brave,False,5.0,2.0,0,False,
+Dragon Pony,2024,5th,unknown,Antenna,False,4.0,2.0,0,False,
+Dxmon,2024,5th,boy,H,False,6.0,2.0,0,False,
+Geenius,2024,5th,girl,HOMe,False,5.0,2.0,0,False,
+Big Ocean,2024,5th,boy,Parastar,False,3.0,2.0,0,False,
+Ifeye,2025,5th,girl,Hi-Hat,False,6.0,1.0,0,False,
+KickFlip,2025,5th,boy,JYP,True,7.0,1.0,0,False,
+KiiiKiii,2025,5th,girl,Starship,False,5.0,1.0,0,False,
+Kiiras,2025,5th,girl,LeanBranding,False,6.0,1.0,0,False,
+Newbeat,2025,5th,boy,Beat Interactive,False,7.0,1.0,0,False,
+S.Coups X Mingyu,2025,5th,unknown,Pledis,False,2.0,1.0,0,False,
+UAU (group),2025,5th,unknown,Dreamcatcher,False,3.0,1.0,0,False,
+Xlov,2025,5th,boy,StrangeLab,False,4.0,1.0,0,False,
+VVS (group),2025,5th,girl,MZMC Inc,False,6.0,1.0,1,False,2026.0
+Idntt,2025,5th,boy,Modhaus,False,1.0,1.0,0,False,
+Nouera,2025,5th,boy,Nouer,False,7.0,1.0,0,False,
+Idid (group),2025,5th,boy,Starship,False,8.0,1.0,0,False,
+Ablume,2025,5th,girl,Massive E&C,False,3.0,1.0,0,False,
+Hitgs,2025,5th,girl,H,False,5.0,1.0,0,False,
+Hoshi X Woozi,2025,5th,unknown,Pledis,False,2.0,0.5,1,False,2025.0
+AHOF,2025,5th,boy,F&F,False,9.0,1.0,0,False,
+AllDay Project,2025,5th,mixed,The Black,False,5.0,1.0,0,False,
+Am8ic,2025,5th,boy,TOV,False,5.0,1.0,0,False,
+AtHeart,2025,5th,girl,Titan,False,7.0,1.0,0,False,
+1Verse,2025,5th,boy,Singing Beetle,False,5.0,1.0,0,False,
+Baby Dont Cry,2025,5th,girl,P Nation,False,4.0,1.0,0,False,
+Close Your Eyes (group),2025,5th,boy,Uncore,False,7.0,1.0,0,False,
+Cortis,2025,5th,boy,HYBE,True,5.0,1.0,0,False,
+Hearts2Hearts,2025,5th,girl,SM,True,8.0,1.0,0,False,
+AxMxP,2025,5th,boy,FNC,False,4.0,1.0,0,False,
+Latency (band),2026,5th,girl,Oddinary,False,8.0,0.5,0,False,
+Unchild,2026,5th,girl,High Up,False,6.0,0.5,0,False,
+Tuide,2026,5th,girl,ABD HYBE IHYBE,False,7.0,0.5,0,False,
+OWIS,2026,5th,girl,AMA,False,5.0,0.5,0,False,
+Ourbirthday,2026,5th,girl,Innit,False,7.0,0.5,0,False,
+NCT JNJM,2026,5th,boy,SM,True,2.0,0.5,0,False,
+Modyssey,2026,5th,boy,Onecead,False,7.0,0.5,0,False,
+Lngshot,2026,5th,boy,More Vision,False,4.0,0.5,0,False,
+Keyveatz,2026,5th,girl,AOMG,False,5.0,0.5,0,False,
+And2ble,2026,5th,boy,YH,False,5.0,0.5,0,False,
+Flare U,2026,5th,boy,FNC,False,2.0,0.5,0,False,
+Dodree,2026,5th,unknown,Innit,False,2.0,0.5,0,False,
+DK X Seungkwan,2026,5th,boy,Pledis,False,2.0,0.5,0,False,
+Daily:Direction,2026,5th,boy,Oddwave,False,6.0,0.5,0,False,
+Alpha Drive One,2026,5th,boy,WakeOne,False,8.0,0.5,0,False,
+AEN (group),2026,5th,boy,Starship,False,7.0,0.5,0,False,
+A2O Lite,2026,5th,girl,A2O,False,9.0,0.5,0,False,
+Yuhz,2026,5th,boy,Pinnacle,False,8.0,0.5,0,False,
+Hiipe Princess,2026,5th,girl,Chapter-I,False,7.0,0.5,0,False,
+V8_(duo),2026,5th,boy,Pledis,False,2.0,0.5,0,False,
